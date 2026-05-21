@@ -1,0 +1,10 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.env
+.env.*
+node_modules/
+.DS_Store
+supabase/.branches/
+supabase/.temp/

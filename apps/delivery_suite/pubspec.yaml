@@ -1,0 +1,20 @@
+name: peregrino_delivery_suite
+description: Multi-experience Flutter app for customer, restaurant, courier and admin delivery operations.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.5.6
+  intl: ^0.19.0
+  uuid: ^4.4.2
+
+flutter:
+  uses-material-design: true
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
